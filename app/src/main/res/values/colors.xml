@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#ffff0000</color>
+    <color name="yellow">#fffffe11</color>
+    <color name="green">#ff59ff0f</color>
+    <color name="dark_blue">#ff040455</color>
+    <color name="white">#ffffffff</color>
+    
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="Czerwony">#ffff0000</color>
+    <color name="Czarny">#ff0a0a0c</color>
+    <color name="Brazowy">#ffaf3c00</color>
+    <color name="blue">#00fffb</color>
+    <color name="Zielony">#ff20ff00</color>
+    <color name="Morelowy">#ffffed36</color>
+    <color name="PiaskiPustyni">#fffff807</color>
+</resources>
